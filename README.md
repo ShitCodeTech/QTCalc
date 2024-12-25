@@ -1,0 +1,1 @@
+extra simple calc made on C++ with QT
